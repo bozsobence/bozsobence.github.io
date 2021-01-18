@@ -1,41 +1,18 @@
-# Projektmunka I.
+# Információ
+
+Az oldal célja, hogy a különböző egyetemi munkáimat röviden bemutathassam az önéletrajzom kiegészítéseképp.
+
+## Projektmunka I.
 
 A kurzus során a feladatom egy tetszőleges forrásból származó, nagy adathalmaz relációs adatbázisban történő feldolgozása, egyszerű és összetett lekérdezések írása, elemzése, illetve optimalizációja volt. Ezt követően az adatok egy részhalmazát valamilyen nem-relációs adatbázisban is fel kellett dolgozni, illetve lekérdezéseket írni.
 Az általam készített megoldás dokumentációja [itt érhető el](https://github.com/bozsobence/bozsobence.github.io/raw/main/docs/projekt1.pdf).
 
-# Projektmunka II.
+## Projektmunka II.
 
 A tárgy teljesítéséhez a Projektmunka I. során használt adathalmazon kellett megfogalmazni egy use-caset, ami adattárház építésével volt megoldható. Ezt követően a megfogalmazott kérdésekre riportok, adatvizualizációk formájában volt szükséges válaszolni.
 A megoldásom dokumentációja [itt található meg](https://github.com/bozsobence/bozsobence.github.io/raw/main/docs/projekt2.pdf).
 
-### Markdown
+## Adattárházak és üzleti intelligencia
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bozsobence/bozsobence.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+A kurzus keretein belül egy csapatmunkában vettem részt, ahol egy öt fős csapat tagjaként egy választható forrásadatbázison (esetünkben ez az [AdventureWorks](https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms) lett) kellett megfogalmazni egy üzleti igényt, amit adattárház építésével oldhattunk meg. Az adatok áttöltését követően a megfogalmazott kérdésekre riportok segítségével adtunk választ. A projekt során a feladatom az ETL folyamatok megvalósítása volt.
+A megoldásunk dokumentációja [itt tekinthető meg](https://github.com/bozsobence/bozsobence.github.io/raw/main/docs/adattarhaz_csapatmunka.pdf).
