@@ -1,9 +1,7 @@
-# Információ
+# Projektmunka I.
 
-You can use the [editor on GitHub](https://github.com/bozsobence/bozsobence.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+A Projektmunka I. során a feladatom egy tetszőleges forrásból származó, nagy adathalmaz relációs adatbázisban történő feldolgozása, egyszerű és összetett lekérdezések írása, elemzése, illetve optimalizációja volt. Ezt követően az adatok egy részhalmazát valamilyen nem-relációs adatbázisban is fel kellett dolgozni, illetve lekérdezéseket írni.
+Az általam készített megoldás [itt érhető el](https://github.com/bozsobence/bozsobence.github.io/blob/main/docs/projekt1.pdf).
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
