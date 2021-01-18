@@ -1,7 +1,13 @@
 # Projektmunka I.
 
-A Projektmunka I. során a feladatom egy tetszőleges forrásból származó, nagy adathalmaz relációs adatbázisban történő feldolgozása, egyszerű és összetett lekérdezések írása, elemzése, illetve optimalizációja volt. Ezt követően az adatok egy részhalmazát valamilyen nem-relációs adatbázisban is fel kellett dolgozni, illetve lekérdezéseket írni.
-Az általam készített megoldás [itt érhető el](https://github.com/bozsobence/bozsobence.github.io/blob/main/docs/projekt1.pdf).
+A kurzus során a feladatom egy tetszőleges forrásból származó, nagy adathalmaz relációs adatbázisban történő feldolgozása, egyszerű és összetett lekérdezések írása, elemzése, illetve optimalizációja volt. Ezt követően az adatok egy részhalmazát valamilyen nem-relációs adatbázisban is fel kellett dolgozni, illetve lekérdezéseket írni.
+Az általam készített megoldás dokumentációja [itt érhető el](https://github.com/bozsobence/bozsobence.github.io/raw/main/docs/projekt1.pdf).
+
+# Projektmunka II.
+
+A tárgy teljesítéséhez a Projektmunka I. során használt adathalmazon kellett megfogalmazni egy use-caset, ami adattárház építésével volt megoldható. Ezt követően a megfogalmazott kérdésekre riportok, adatvizualizációk formájában volt szükséges válaszolni.
+A megoldásom dokumentációja [itt található meg](https://github.com/bozsobence/bozsobence.github.io/raw/main/docs/projekt2.pdf).
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
